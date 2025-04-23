@@ -1,0 +1,5 @@
+[project]
+name = "env-doctor"
+version = "0.1.0"
+description = "Diagnose and Fix CUDA / GPU environments compatibility issues locally, in Docker, and CI/CD. CLI + MCP server available."
+requires-python = ">=3.10"
